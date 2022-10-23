@@ -1,4 +1,4 @@
-### First Exercise 👆
+### Second Exercise 👆
 
 
 ![problem.PNG](/assets/SQLi/Second/problem.PNG)
