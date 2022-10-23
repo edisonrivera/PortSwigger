@@ -37,6 +37,7 @@ To solve the lab, log in as the administrator user.
 ```
 
 **Output**
+
 ![cred.PNG](/assets/SQLi/Ten/creds.PNG)
 
 
