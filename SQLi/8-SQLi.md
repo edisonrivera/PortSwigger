@@ -18,4 +18,5 @@ To solve the lab, display the database version string.
 
 
 **Output**
+
 ![version-PNG](/assets/SQLi/Eight/version.PNG)
