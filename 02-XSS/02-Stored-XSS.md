@@ -1,7 +1,6 @@
 # Stored XSS into HTML context with nothing encoded 👨‍💻
 <p align="center">
-    <img src="/assets/XSS/02-Second
-/01-Description.PNG">
+    <img src="/assets/XSS/02-Second/01-Description.PNG">
 </p>
 La vulnerabilidad se encuentra en **la sección de comentarios de los posts** 
 <p align="center">
