@@ -1,11 +1,12 @@
 # Stored XSS into HTML context with nothing encoded 👨‍💻
-
-<img align="center" src="/assets/XSS/02-Second
+<p align="center">
+    <img src="/assets/XSS/02-Second
 /01-Description.PNG">
-
+</p>
 La vulnerabilidad se encuentra en **la sección de comentarios de los posts** 
-
-<img align="center" src="/assets/XSS/02-Second/02-Script.PNG">
+<p align="center">
+    <img src="/assets/XSS/02-Second/02-Script.PNG">
+</p>
 
 **Script XSS**
 ```js
@@ -13,5 +14,6 @@ La vulnerabilidad se encuentra en **la sección de comentarios de los posts**
 ```
 
 Una vez ejecutamos la búsqueda con el anterior script obtenemos el siguiente resultado:
-
-<img align="center" src="/assets/XSS/02-Second/03-Result.PNG">
+<p align="center">
+    <img src="/assets/XSS/02-Second/03-Result.PNG">
+</p>

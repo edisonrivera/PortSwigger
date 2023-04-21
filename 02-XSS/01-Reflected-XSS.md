@@ -1,10 +1,11 @@
 # Reflected XSS into HTML context with nothing encoded 👨‍💻
-
-<img align="center" src="/assets/XSS/01-First/01-Description.PNG">
-
+<p align="center">
+    <img src="/assets/XSS/01-First/01-Description.PNG">
+</p>
 La vulnerabilidad se encuentra en **la barra de búsqueda** 
-
-<img align="center" src="/assets/XSS/01-First/02-Script.PNG">
+<p align="center">
+    <img src="/assets/XSS/01-First/02-Script.PNG">
+<p>
 
 **Script XSS**
 ```js
@@ -12,5 +13,6 @@ La vulnerabilidad se encuentra en **la barra de búsqueda**
 ```
 
 Una vez ejecutamos la búsqueda con el anterior script obtenemos el siguiente resultado:
-
-<img align="center" src="/assets/XSS/01-First/03-Result.PNG">
+<p align="center">
+<img src="/assets/XSS/01-First/03-Result.PNG">
+</p>
